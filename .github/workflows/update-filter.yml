@@ -1,0 +1,52 @@
+name: Update FortiGate filter
+
+on:
+  schedule:
+    - cron: '17 21 * * *' # 毎日 06:17 JST
+  workflow_dispatch:
+  push:
+    paths:
+      - 'converter/**'
+      - '.github/workflows/update-filter.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-filter
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Build and verify conversion rules
+        run: |
+          dotnet build converter/Converter.csproj --configuration Release
+          dotnet run --project converter/Converter.csproj --configuration Release --no-build -- --self-test
+      - name: Download official AdGuard DNS filter
+        run: |
+          mkdir -p .download
+          curl --fail --location --retry 3 --max-time 120 \
+            --output .download/filter.txt \
+            https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+      - name: Convert and validate before publishing
+        run: dotnet run --project converter/Converter.csproj --configuration Release --no-build -- .download/filter.txt .
+      - name: Publish successful conversion
+        run: |
+          git add fortigate-domains.txt reports/conversion.txt sources/adguard-dns.txt
+          if git diff --cached --quiet; then
+            echo "No filter changes."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update converted AdGuard DNS filter'
+          git push origin HEAD

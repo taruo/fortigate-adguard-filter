@@ -1,0 +1,960 @@
+Source SHA256: 796ad979020b3f32844081a4ca8bf43ea52160a9eade8fa9017454d4c5d74d45
+Entries: 366268
+Suppressed blocks overlapping exceptions: 86
+Disabled by badfilter: 1
+Skipped rules: 741
+
+Exception handling (conservative):
+@@||ad.10010.com^ => allow ad.10010.com and subdomains
+@@||ad.abchina.com^ => allow ad.abchina.com and subdomains
+@@||ad.kazakinfo.com^ => allow ad.kazakinfo.com and subdomains
+@@||ad.ourgame.com^ => allow ad.ourgame.com and subdomains
+@@||adcdn.pingan.com^ => allow adcdn.pingan.com and subdomains
+@@||advert.kf5.com^ => allow advert.kf5.com and subdomains
+@@||api.ads.tvb.com^ => allow api.ads.tvb.com and subdomains
+@@||app-advertise.zhihuishu.com^ => allow app-advertise.zhihuishu.com and subdomains
+@@||buyad.bi-xenon.cn^ => allow buyad.bi-xenon.cn and subdomains
+@@||captcha.su.baidu.com^ => allow captcha.su.baidu.com and subdomains
+@@||img.ads.tvb.com^ => allow img.ads.tvb.com and subdomains
+@@||spartaindependent.com^| => allow spartaindependent.com and subdomains
+@@||emails.educause.edu^| => allow emails.educause.edu and subdomains
+@@||aax-fe.amazon.co.jp^| => allow aax-fe.amazon.co.jp and subdomains
+@@||swasc.homedepot.com^| => allow swasc.homedepot.com and subdomains
+@@||cmp.osano.com^| => allow cmp.osano.com and subdomains
+@@||data.promo.timhortons.ca^| => allow data.promo.timhortons.ca and subdomains
+@@||partner.o2online.de^| => allow partner.o2online.de and subdomains
+@@||data.notify.macys.com^| => allow data.notify.macys.com and subdomains
+@@||om-ssl.consorsbank.de^| => allow om-ssl.consorsbank.de and subdomains
+@@|cdn.taboola.com^| => allow cdn.taboola.com and subdomains
+@@||unsubscribe.lhinsights.com^| => allow unsubscribe.lhinsights.com and subdomains
+@@||belgium.wolterskluwer.com^| => allow belgium.wolterskluwer.com and subdomains
+@@||ssai.aniview.com^| => allow ssai.aniview.com and subdomains
+@@||sedge.nfl.com^| => allow sedge.nfl.com and subdomains
+@@||data.orders.costco.ca^| => allow data.orders.costco.ca and subdomains
+@@||data.orders.costco.com^| => allow data.orders.costco.com and subdomains
+@@||link.meet5.net^| => allow link.meet5.net and subdomains
+@@||link.nzz.ch^| => allow link.nzz.ch and subdomains
+@@||content.viralize.tv^| => allow content.viralize.tv and subdomains
+@@||www.datadoghq-browser-agent.com^| => allow www.datadoghq-browser-agent.com and subdomains
+@@||itoya.ec-optimizer.com^| => allow itoya.ec-optimizer.com and subdomains
+@@||go.redirectingat.com^| => allow go.redirectingat.com and subdomains
+@@||ref.rbauction.com^| => allow ref.rbauction.com and subdomains
+@@||puzzles-games-api.gp-prod.conde.digital^| => allow puzzles-games-api.gp-prod.conde.digital and subdomains
+@@||news.warhammer.com^| => allow news.warhammer.com and subdomains
+@@||prod.impartner.live^| => allow prod.impartner.live and subdomains
+@@||cdn.atmedia.hu^| => allow cdn.atmedia.hu and subdomains
+@@||trk.ecomm.lenovo.com^| => allow trk.ecomm.lenovo.com and subdomains
+@@||s.bluecore.com^| => allow s.bluecore.com and subdomains
+@@|affiliate.notion.so^| => allow affiliate.notion.so and subdomains
+@@|www3.doubleclick.net^| => allow www3.doubleclick.net and subdomains
+@@||acs-m.daraz.pk^| => allow acs-m.daraz.pk and subdomains
+@@||taiga.maven.io^| => allow taiga.maven.io and subdomains
+@@||tlh.gedidigital.it^| => allow tlh.gedidigital.it and subdomains
+@@||smtp.focusgroupresearch.com^| => allow smtp.focusgroupresearch.com and subdomains
+@@||ap01.records.in.treasuredata.com^| => allow ap01.records.in.treasuredata.com and subdomains
+@@||click.avs.io^| => allow click.avs.io and subdomains
+@@||link.sylikes.com^| => allow link.sylikes.com and subdomains
+@@||rd.bizrate.com^| => allow rd.bizrate.com and subdomains
+@@|www.daraz.pk^| => allow www.daraz.pk and subdomains
+@@|daraz.com^| => allow daraz.com and subdomains
+@@||sbs.demdex.net^| => allow sbs.demdex.net and subdomains
+@@||cl.link-ag.net^| => allow cl.link-ag.net and subdomains
+@@||action.metaffiliation.com^| => allow action.metaffiliation.com and subdomains
+@@||www.dogpile.com^| => allow www.dogpile.com and subdomains
+@@||acs-m.daraz.com.bd^| => allow acs-m.daraz.com.bd and subdomains
+@@||f-gear.ec-optimizer.com^| => allow f-gear.ec-optimizer.com and subdomains
+@@||get.neofinancial.com^| => allow get.neofinancial.com and subdomains
+@@||hidive.com^| => allow hidive.com and subdomains
+@@||learn.khanacademy.org^| => allow learn.khanacademy.org and subdomains
+@@||res.ads.nicovideo.jp^| => allow res.ads.nicovideo.jp and subdomains
+@@||sax.sina.com.cn^| => allow sax.sina.com.cn and subdomains
+@@||linka.page^| => allow linka.page and subdomains
+@@||track.webgains.com^| => allow track.webgains.com and subdomains
+@@||secureimage.securedataimages.com^| => allow secureimage.securedataimages.com and subdomains
+@@||infra-api.newrelic.com^| => allow infra-api.newrelic.com and subdomains
+@@||tms.capitalone.com^| => allow tms.capitalone.com and subdomains
+@@||redir.ownpage.fr^| => allow redir.ownpage.fr and subdomains
+@@||tr.rdrtr.com^| => allow tr.rdrtr.com and subdomains
+@@||media-consumer365.desigual.com^| => allow media-consumer365.desigual.com and subdomains
+@@||cdn.us*.exponea.com^| => allow exponea.com and subdomains
+@@||crm-cdn.peek-cloppenburg.com^| => allow crm-cdn.peek-cloppenburg.com and subdomains
+@@||public-cis.exponea.com^| => allow public-cis.exponea.com and subdomains
+@@||cdn.rozetka.com.ua^| => allow cdn.rozetka.com.ua and subdomains
+@@||vcentry2.valuecommerce.ne.jp^| => allow vcentry2.valuecommerce.ne.jp and subdomains
+@@||recommender.scarabresearch.com^| => allow recommender.scarabresearch.com and subdomains
+@@||refer.discover.com^| => allow refer.discover.com and subdomains
+@@||cmp.inmobi.com^| => allow cmp.inmobi.com and subdomains
+@@||data.digital.costco.ca^| => allow data.digital.costco.ca and subdomains
+@@||data.digital.costco.com^| => allow data.digital.costco.com and subdomains
+@@||api.karte.io^| => allow api.karte.io and subdomains
+@@||sponsor.nitropay.com^| => allow sponsor.nitropay.com and subdomains
+@@||click.cptrack.de^| => allow click.cptrack.de and subdomains
+@@|ezodn.com^| => allow ezodn.com and subdomains
+@@||gate.first-id.fr^| => allow gate.first-id.fr and subdomains
+@@||leechers-paradise.org^| => allow leechers-paradise.org and subdomains
+@@||data-*.herz-fuer-tiere.de^| => allow herz-fuer-tiere.de and subdomains
+@@||go.adjust.com^| => allow go.adjust.com and subdomains
+@@||clickattr.wayup.com^| => allow clickattr.wayup.com and subdomains
+@@||used.ca^| => allow used.ca and subdomains
+@@||remembering.ca^| => allow remembering.ca and subdomains
+@@||obituaries.toacorn.com^| => allow obituaries.toacorn.com and subdomains
+@@||obituaries.thestar.com^| => allow obituaries.thestar.com and subdomains
+@@||obituaries.therecord.com^| => allow obituaries.therecord.com and subdomains
+@@||catchup.thisisdax.com^| => allow catchup.thisisdax.com and subdomains
+@@||px.a8.net^| => allow px.a8.net and subdomains
+@@||cdn.duurzaam.greenchoice.nl^| => allow cdn.duurzaam.greenchoice.nl and subdomains
+@@||c.office.com^| => allow c.office.com and subdomains
+@@||surveymyopinion.researchnow.com^| => allow surveymyopinion.researchnow.com and subdomains
+@@||e.customeriomail.com^| => allow e.customeriomail.com and subdomains
+@@||partner.everydays.de^| => allow partner.everydays.de and subdomains
+@@||api.docodoco.jp^| => allow api.docodoco.jp and subdomains
+@@||js.monitor.azure.com^| => allow js.monitor.azure.com and subdomains
+@@||link.morningbrew.com^| => allow link.morningbrew.com and subdomains
+@@||click.appcast.io^| => allow click.appcast.io and subdomains
+@@||anwb.webpower.eu^| => allow anwb.webpower.eu and subdomains
+@@||bcicl.*.evergage.com^| => allow evergage.com and subdomains
+@@||torimochi.line-apps.com^| => allow torimochi.line-apps.com and subdomains
+@@|core.crazyegg.com^| => allow core.crazyegg.com and subdomains
+@@|app.crazyegg.com^| => allow app.crazyegg.com and subdomains
+@@||oa.tr.line.me^| => allow oa.tr.line.me and subdomains
+@@||stash.roistat.com^| => allow stash.roistat.com and subdomains
+@@||static-v*.trbo.com^| => allow trbo.com and subdomains
+@@||api-v*.trbo.com^| => allow trbo.com and subdomains
+@@||brm-core-*.brsrvr.com^| => allow brsrvr.com and subdomains
+@@||marketing.net.idealo-partner.com^| => allow marketing.net.idealo-partner.com and subdomains
+@@||netatmo.commander1.com^| => allow netatmo.commander1.com and subdomains
+@@||vcentry3.valuecommerce.ne.jp^| => allow vcentry3.valuecommerce.ne.jp and subdomains
+@@-ds.metric.gstatic.com^| => allow metric.gstatic.com and subdomains
+@@||id.i2i.jp^| => allow id.i2i.jp and subdomains
+@@||thumbnail.thench.net^| => allow thumbnail.thench.net and subdomains
+@@||validate.perfdrive.com^| => allow validate.perfdrive.com and subdomains
+@@||ia.hit.interia.pl^| => allow ia.hit.interia.pl and subdomains
+@@||analytics.amplitude.com^| => allow analytics.amplitude.com and subdomains
+@@|adsterra.com^| => allow adsterra.com and subdomains
+@@|ads.adsterra.com^| => allow ads.adsterra.com and subdomains
+@@|publishers.adsterra.com^| => allow publishers.adsterra.com and subdomains
+@@|beta.publishers.adsterra.com^| => allow beta.publishers.adsterra.com and subdomains
+@@|partners.adsterra.com^| => allow partners.adsterra.com and subdomains
+@@|beta.partners.adsterra.com^| => allow beta.partners.adsterra.com and subdomains
+@@|affiliates.adsterra.com^| => allow affiliates.adsterra.com and subdomains
+@@|beta.affiliates.adsterra.com^| => allow beta.affiliates.adsterra.com and subdomains
+@@|help-advertisers.adsterra.com^| => allow help-advertisers.adsterra.com and subdomains
+@@||goto.target.com^| => allow goto.target.com and subdomains
+@@||goto.walmart.com^| => allow goto.walmart.com and subdomains
+@@||citiintl.122.2o7.net^| => allow citiintl.122.2o7.net and subdomains
+@@||ma135-r.analytics.edgekey.net^| => allow ma135-r.analytics.edgekey.net and subdomains
+@@||79423.analytics.edgekey.net^| => allow 79423.analytics.edgekey.net and subdomains
+@@||classliving.lpages.co^| => allow classliving.lpages.co and subdomains
+@@||home.focusatwill.com^| => allow home.focusatwill.com and subdomains
+@@||health.halodoc.com^| => allow health.halodoc.com and subdomains
+@@||promo.gramedia.com^| => allow promo.gramedia.com and subdomains
+@@||support-beacon.nakanohito.jp^| => allow support-beacon.nakanohito.jp and subdomains
+@@||support-widget.nakanohito.jp^| => allow support-widget.nakanohito.jp and subdomains
+@@||afi-b.com^| => allow afi-b.com and subdomains
+@@||daikoku.ebis.ne.jp^| => allow daikoku.ebis.ne.jp and subdomains
+@@||envato.market^| => allow envato.market and subdomains
+@@||ac.ebis.ne.jp^| => allow ac.ebis.ne.jp and subdomains
+@@||email.awscloud.com^| => allow email.awscloud.com and subdomains
+@@||oneline.nextday.media^| => allow oneline.nextday.media and subdomains
+@@|ftp.bmp.ovh^| => allow ftp.bmp.ovh and subdomains
+@@||cloud.notification-naviextras.com^| => allow cloud.notification-naviextras.com and subdomains
+@@||email.elitedangerous.com^| => allow email.elitedangerous.com and subdomains
+@@||links.e.theatlantic.com^| => allow links.e.theatlantic.com and subdomains
+@@||app.appsflyer.com^| => allow app.appsflyer.com and subdomains
+@@||email.procook.co.uk^| => allow email.procook.co.uk and subdomains
+@@||omsc.kpn.com^| => allow omsc.kpn.com and subdomains
+@@||logentries.com^| => allow logentries.com and subdomains
+@@||email.*.skyeng.ru^| => allow skyeng.ru and subdomains
+@@||go.scorptec.com.au^| => allow go.scorptec.com.au and subdomains
+@@||links.getblueshift.com^| => allow links.getblueshift.com and subdomains
+@@||click.trafficguard.ai^| => allow click.trafficguard.ai and subdomains
+@@||hb.afl.rakuten.co.jp^| => allow hb.afl.rakuten.co.jp and subdomains
+@@||pt.afl.rakuten.co.jp^| => allow pt.afl.rakuten.co.jp and subdomains
+@@||proto2ad.durasite.net^| => allow proto2ad.durasite.net and subdomains
+@@||tags.crwdcntrl.net^| => allow tags.crwdcntrl.net and subdomains
+@@||official.paymaya.com^| => allow official.paymaya.com and subdomains
+@@|statcounter.com^| => allow statcounter.com and subdomains
+@@||www.statcounter.com^| => allow www.statcounter.com and subdomains
+@@||gs.statcounter.com^| => allow gs.statcounter.com and subdomains
+@@||click.virt.s*.exacttarget.com^| => allow exacttarget.com and subdomains
+@@||click.virt.exacttarget.com^| => allow click.virt.exacttarget.com and subdomains
+@@||mc.*.exacttarget.com^| => allow exacttarget.com and subdomains
+@@||login.sendpulse.com^| => allow login.sendpulse.com and subdomains
+@@||a.sellpoint.net^| => allow a.sellpoint.net and subdomains
+@@||tlaol.com^| => allow tlaol.com and subdomains
+@@||admin.dable.io^| => allow admin.dable.io and subdomains
+@@||log.mmstat.com^| => allow log.mmstat.com and subdomains
+@@||click.simba.taobao.com^| => allow click.simba.taobao.com and subdomains
+@@||cs.silverpop.com^| => allow cs.silverpop.com and subdomains
+@@||grp07.ias.rakuten.co.jp^| => allow grp07.ias.rakuten.co.jp and subdomains
+@@||cindyholbrook.lpages.co^| => allow cindyholbrook.lpages.co and subdomains
+@@||pagead.l.doubleclick.net^| => allow pagead.l.doubleclick.net and subdomains
+@@||www.googleadservices.com^| => allow www.googleadservices.com and subdomains
+@@||my.tealiumiq.com^| => allow my.tealiumiq.com and subdomains
+@@||artifactory.appodeal.com^| => allow artifactory.appodeal.com and subdomains
+@@||www.jdoqocy.com^| => allow www.jdoqocy.com and subdomains
+@@||cj.dotomi.com^| => allow cj.dotomi.com and subdomains
+@@||intersport.peerius.com^| => allow intersport.peerius.com and subdomains
+@@||cutcaptcha.com^| => allow cutcaptcha.com and subdomains
+@@||forum.notebookreview.com^| => allow forum.notebookreview.com and subdomains
+@@||radiofrance.targetspot.com^| => allow radiofrance.targetspot.com and subdomains
+@@||awin1.com^| => allow awin1.com and subdomains
+@@||app.adjust.com^| => allow app.adjust.com and subdomains
+@@||feed.adrelayer.com^| => allow feed.adrelayer.com and subdomains
+@@||redirect.appmetrica.yandex.com^| => allow redirect.appmetrica.yandex.com and subdomains
+@@||guce.advertising.com^| => allow guce.advertising.com and subdomains
+@@||a.adwolf.ru^| => allow a.adwolf.ru and subdomains
+@@||cm-beacon.nakanohito.jp^| => allow cm-beacon.nakanohito.jp and subdomains
+@@||cm-widget.nakanohito.jp^| => allow cm-widget.nakanohito.jp and subdomains
+@@||ads.tdbank.com^| => allow ads.tdbank.com and subdomains
+@@||nineto5mac-d.openx.net^| => allow nineto5mac-d.openx.net and subdomains
+@@||redir.tradedoubler.com^| => allow redir.tradedoubler.com and subdomains
+@@||clk*.tradedoubler.com^| => allow tradedoubler.com and subdomains
+@@||href.li^| => allow href.li and subdomains
+@@||str.hit.gemius.pl^| => allow str.hit.gemius.pl and subdomains
+@@||track.rutarget.ru^| => allow track.rutarget.ru and subdomains
+@@||5471782.fls.doubleclick.net^| => allow 5471782.fls.doubleclick.net and subdomains
+@@||omniture.walmart.com^| => allow omniture.walmart.com and subdomains
+
+Skipped rules:
+Unsupported block pattern: ||194.63.143.96^
+Unsupported block pattern: ||103.179.189.35^
+Unsupported block pattern: ||direct-specific.com
+Unsupported block pattern: ||ad-host-backup-*.aliyuncs.com^
+Unsupported block pattern: ||107.148.45.21^
+Unsupported block pattern: ||198.23.198.110^
+Unsupported block pattern: ||185.216.143.121^
+Unsupported block pattern: ||st-n.ads*-adnow.com^
+Unsupported block pattern: ||reachableads-av.*.amazonaws.com^
+Unsupported block pattern: ||185.149.120.173^
+Unsupported block pattern: /^139\.45\.197\.2(4[0-9]|5[0-4]):/
+Unsupported block pattern: /^139\.45\.197\.2(4[0-9]|5[0-4])/
+Unsupported block pattern: ||157.90.183.248^
+Unsupported block pattern: ||5.61.55.143^
+Unsupported block pattern: ||37.1.213.100^
+Unsupported block pattern: ||ads.livetv*.me^
+Unsupported block pattern: ||counter*.stat.ovh^
+Unsupported block pattern: ||fxhpaoxqyajvmdg.
+Unsupported block pattern: ||rgfftupf.
+Unsupported block pattern: ||clk.rtpdn*.com^
+Unsupported block pattern: ||teleriumads-*.netdna-ssl.com^
+Unsupported block pattern: ||putrr*.com^
+Unsupported block pattern: .bbelements.com^
+Unsupported block pattern: .doublepimp.com^
+Unsupported block pattern: ||block.s*block.com^
+Unsupported block pattern: ||mf*.advantage.as^
+Unsupported block pattern: ||www.fuze-hill*.xyz^
+Unsupported block pattern: ||www.fuze-sea*.xyz^
+Unsupported block pattern: /^88\.208\.22\.[1234]:/
+Unsupported block modifier: /^88\.208\.22\.[1234]$/
+Unsupported block pattern: ||154.199.255.184^
+Unsupported block pattern: ||88.208.46.222^
+Unsupported block pattern: ||103.224.182.210^
+Unsupported block pattern: /^94\.242\.247\.(2[0-9]|3[0-2]):/
+Unsupported block pattern: /^94\.242\.247\.(2[0-9]|3[0-2])/
+Unsupported block modifier: /^23\.109\.170\.(18[7-9]|19[0-2])$/
+Unsupported block pattern: /^23\.109\.73\.\d{3}/
+Unsupported block pattern: /^188\.42\.84\.\d{1,3}/
+Unsupported block pattern: /^139\.45\.19[5-7]\.\d{1,3}/
+Unsupported block pattern: ||193.200.64.30^
+Unsupported block pattern: ||193.200.64.31^
+Unsupported block pattern: ||193.200.65.61^
+Unsupported block pattern: ||212.117.190.201^
+Unsupported block pattern: ||212.117.190.202^
+Unsupported block pattern: ||212.117.190.210^
+Unsupported block pattern: ||212.117.190.211^
+Unsupported block pattern: ||212.117.190.212^
+Unsupported block pattern: ||212.117.190.213^
+Unsupported block pattern: ||91.204.226.224^
+Unsupported block pattern: ||57.128.71.215^
+Unsupported block pattern: ||172.240.108.68^
+Unsupported block pattern: ||172.240.108.76^
+Unsupported block pattern: ||172.240.108.84^
+Unsupported block pattern: ||172.240.127.234^
+Unsupported block pattern: ||172.240.253.132^
+Unsupported block pattern: ||185.246.188.124^
+Unsupported block pattern: ||185.246.188.125^
+Unsupported block pattern: ||192.243.59.12^
+Unsupported block pattern: ||192.243.59.13^
+Unsupported block pattern: ||192.243.59.20^
+Unsupported block pattern: ||192.243.61.225^
+Unsupported block pattern: ||192.243.61.227^
+Unsupported block pattern: ||194.63.140.103^
+Unsupported block pattern: ||194.63.143.61^
+Unsupported block modifier: /^142\.91\.159\.(1[5-9]\d|2[0-4]\d|250):(80|443)$/
+Unsupported block pattern: ||188.72.219.36^
+Unsupported block pattern: ||*.exaapi.com^
+Unsupported block pattern: ||valentine.xhamster.*^
+Unsupported block pattern: ||rtb-*.anysex.com^
+Unsupported block pattern: ||advertising.civitai.
+Unsupported block pattern: ||*two-gun-volley.pages.dev^
+Unsupported block pattern: ||id-msp.newsbreak.com
+Unsupported block pattern: ||advert*.livesportmedia.eu^
+Unsupported block pattern: ||buzzer.xhamster*
+Unsupported block pattern: ||prebid-*.rubiconproject.com^
+Unsupported block pattern: ||pijama.*.elasticbeanstalk.com^
+Unsupported block pattern: .n.2.1.js^
+Unsupported block pattern: .n.2.1.l60.js^
+Unsupported block pattern: .1.1.1.l80.js^
+Unsupported block pattern: .3.n.2.1.l50.js
+Unsupported block pattern: .3.n.2.2.l30.js
+Unsupported block pattern: ||109.123.233.251^
+Unsupported block pattern: ://mine.torrent.pw^
+Unsupported block pattern: ||hostingcloud.*.wasm^
+Unsupported block pattern: vkcdnservice.appspot.com^
+Unsupported block pattern: ||freecontent.date
+Unsupported block pattern: ||freecontent.stream
+Unsupported block pattern: ||s*.skencituer.com^
+Unsupported block pattern: ||tw-726620180914.*.run.app^
+Unsupported block pattern: ||zbb.bbb.*.pics^
+Unsupported block pattern: ||fjuga.top
+Unsupported block pattern: ||192.151.218.66^
+Unsupported block pattern: ||23.224.89.2^
+Unsupported block pattern: ||156.233.32.123^
+Unsupported block pattern: ||207.148.44.179^
+Unsupported block modifier: /^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
+Unsupported block pattern: ||ad*.on.cc^
+Unsupported block pattern: ||broredir*s.site^
+Unsupported block pattern: ||vst.videolink.
+Unsupported block pattern: ||banner.kiev.ua
+Unsupported block pattern: ||orbit*.lun.ua^
+Unsupported block pattern: .infox.sg^
+Unsupported block pattern: ||yxhstwzjbu.info
+Unsupported block pattern: .potopy.ru^
+Unsupported block pattern: .vipko.ru^
+Unsupported block pattern: ||q*-publick.club^
+Unsupported block pattern: ||v.tzbox*.xyz^
+Unsupported block pattern: ||cdn*.swaxis.com^
+Unsupported block pattern: .adonweb.ru^
+Unsupported block pattern: .allalla.com^
+Unsupported block pattern: .cpa1.ru^
+Unsupported block pattern: .ecommtools.com^
+Unsupported block pattern: .gameleads.ru^
+Unsupported block pattern: .is.traff-numerical.info^
+Unsupported block pattern: .piccash.net^
+Unsupported block pattern: .sexplaycam.com^
+Unsupported block pattern: .tovarro.com^
+Unsupported block pattern: .tpm.pw^
+Unsupported block pattern: .webhop.net^
+Unsupported block pattern: ://*.a-akamaihd.com^
+Unsupported block pattern: ://jhf.ru^
+Unsupported block pattern: ://kma.biz^
+Unsupported block pattern: ||37.220.26.135^
+Unsupported block pattern: ||37.220.26.136^
+Unsupported block pattern: ||37.220.26.137^
+Unsupported block pattern: ||77.247.178.41^
+Unsupported block pattern: ||78.140.134.198^
+Unsupported block pattern: ||78.140.149.216^
+Unsupported block pattern: ||88.85.75.147^
+Unsupported block pattern: ||88.85.77.92^
+Unsupported block pattern: ||91.207.192.31^
+Unsupported block pattern: ||95.211.125.226^
+Unsupported block pattern: ||admulti.
+Unsupported block pattern: ||adserver1.
+Unsupported block pattern: ||afdads.com
+Unsupported block pattern: ||alishop*.ru^
+Unsupported block pattern: ||allmt.com
+Unsupported block pattern: ||almosto.com
+Unsupported block pattern: ||banner-in.net
+Unsupported block pattern: ||bondzgi*.
+Unsupported block pattern: ||clickvip.ru
+Unsupported block pattern: ||dl.qcash.ws
+Unsupported block pattern: ||eberalofe.pro
+Unsupported block pattern: ||et-code.ru
+Unsupported block pattern: ||flipflapflo.
+Unsupported block pattern: ||gbs.gamingmedia.ru
+Unsupported block pattern: ||globalteaser.ru
+Unsupported block pattern: ||gonews*.net^
+Unsupported block pattern: ||goodadvert.
+Unsupported block pattern: ||icq-window.
+Unsupported block pattern: ||icqwindow.
+Unsupported block pattern: ||imgg.dt00.net
+Unsupported block pattern: ||iphone-caviar.ru*entranceId
+Unsupported block pattern: ||js.goods.redtram.com
+Unsupported block pattern: ||letssex.
+Unsupported block pattern: ||linkexchange.
+Unsupported block pattern: ||loneday.com
+Unsupported block pattern: ||mediacontext.
+Unsupported block pattern: ||medialand.
+Unsupported block pattern: ||minitds-*.info^
+Unsupported block pattern: ||mjavagames.ru
+Unsupported block pattern: ||moneymaiker.ru
+Unsupported block pattern: ||moneysyst.biz
+Unsupported block pattern: ||mptri.net
+Unsupported block pattern: ||obislame.ru
+Unsupported block pattern: ||platinumcode.net
+Unsupported block pattern: ||pop-parad.
+Unsupported block pattern: ||pop-under.
+Unsupported block pattern: ||poptraf.
+Unsupported block pattern: ||popunder.
+Unsupported block pattern: ||popupclick.
+Unsupported block pattern: ||popuptraf.
+Unsupported block pattern: ||poshalim.
+Unsupported block pattern: ||promoblocks.ru
+Unsupported block pattern: ||psma01.com
+Unsupported block pattern: ||psma02.com
+Unsupported block pattern: ||psma03.com
+Unsupported block pattern: ||rb*.design.ru^
+Unsupported block pattern: ||real*traf.ru^
+Unsupported block pattern: ||rebill.me
+Unsupported block pattern: ||rotaban.
+Unsupported block pattern: ||rotabanner.
+Unsupported block pattern: ||rotator.
+Unsupported block pattern: ||ruscams.com
+Unsupported block pattern: ||rusrestbest.
+Unsupported block pattern: ||smart.allocine.fr
+Unsupported block pattern: ||sn00.net
+Unsupported block pattern: ||subnewss*.net^
+Unsupported block pattern: ||superpcexpert.ru
+Unsupported block pattern: ||talkfusion.com
+Unsupported block pattern: ||timedirect.ru
+Unsupported block pattern: ||tiz.neosmi.ru
+Unsupported block pattern: ||tmserver-2.net
+Unsupported block pattern: ||u*.takru.com^
+Unsupported block pattern: ||under-click.
+Unsupported block pattern: ||underclick.
+Unsupported block pattern: ||v.newsportal*.ru^
+Unsupported block pattern: ||videoclick.
+Unsupported block pattern: ||videoclik.
+Unsupported block pattern: ||w*statistics.info^
+Unsupported block pattern: ||web-rotation.net
+Unsupported block pattern: ||web-visor.
+Unsupported block pattern: ||yottos.com
+Unsupported block pattern: /^2.59.219.121/
+Unsupported block pattern: ||193.200.64.20^
+Unsupported block pattern: /62.76.25.2(7|8)/
+Unsupported block pattern: /193.200.64.24:/
+Unsupported block pattern: ||193.200.64.24^
+Unsupported block pattern: ||206.54.181.250^
+Unsupported block pattern: ||62.76.25.27^
+Unsupported block pattern: ||62.76.25.28^
+Unsupported block pattern: ||45.82.68.79^
+Unsupported block pattern: ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
+Unsupported block pattern: *ad.durasite.net^
+Unsupported block pattern: ||bar*.shinobi.jp^
+Unsupported block pattern: ||94.130.167.163^
+Unsupported block pattern: ||adv0*.msa.cdn.mediaset.net^
+Unsupported block modifier: /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
+Unsupported block modifier: /^(a|c)\.[0-9a-f]{56}\.com$/
+Unsupported block pattern: ||54.222.186.106^
+Unsupported block pattern: ||*.libaishuo.com^
+Unsupported block pattern: ||adapi*.boomplaymusic.com^
+Unsupported block pattern: ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
+Unsupported block pattern: ||23.224.199.96^
+Unsupported block pattern: ||23.224.199.74^
+Unsupported block pattern: ||ads*-normal*.zijieapi.com^
+Unsupported block pattern: ||ad*.zonaplus.tv^
+Unsupported block pattern: ||api16-access-ttp*.tiktokpangle-b.us^
+Unsupported block pattern: ||pavoshare.com
+Unsupported block pattern: ||global-staticplat.cdn.bcebos.com
+Unsupported block pattern: ||creative*.bidease.com^
+Unsupported block pattern: ||ads*-normal-*.zijieapi.com^
+Unsupported block pattern: -adx-*.rayjump.com^
+Unsupported block pattern: ||ads*.textra.me^
+Unsupported block pattern: ||ads-*-nfl.yinzcam.com^
+Unsupported block pattern: ||aan.amazon.*^
+Unsupported block pattern: ||ads*.production-public.tubi.io^
+Unsupported block pattern: ||mob*.novanewsapp.com^
+Unsupported block pattern: ||ad-*.amazonaws.com^
+Unsupported block pattern: ||ads*-normal-lq.zijieapi.com^
+Unsupported block pattern: ||v*-ad.video.yximgs.com^
+Unsupported block pattern: ||ads*.bojijulebu.com^
+Unsupported block pattern: ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+Unsupported block pattern: ||adcs-*.myappsget.com^
+Unsupported block pattern: ||prebid-cache*.ifunny.co^
+Unsupported block pattern: ||mobiadvert*.livesportmedia.eu^
+Unsupported block pattern: ||jtbo*.nqxvevk.cn^
+Unsupported block pattern: ||adx-*.dbankcloud.
+Unsupported block pattern: ||ad-*.appacc.dbankedge.cn^
+Unsupported block pattern: ||adx-*.dbankedge.cn^
+Unsupported block pattern: ||adx-*.op.dbankcloud.com.edgekey.net^
+Unsupported block pattern: ||api-ad-callback.mobiuspace.net
+Unsupported block pattern: ||marketplace-*.hyprmx.com^
+Unsupported block pattern: ||events-*.op.hicloud.com^
+Unsupported block pattern: ||ms*.applvn.com^
+Unsupported block pattern: ||api*.bidmachine.io^
+Unsupported block pattern: ||banner.*.tccapis.com^
+Unsupported block pattern: ||deliveryengine.adswizz.com
+Unsupported block pattern: ||api*.batmobi.net^
+Unsupported block pattern: ||api*.batmobil.net^
+Unsupported block pattern: ||api.cloudmobi.net
+Unsupported block pattern: ||adserver.*.yahoodns.net^
+Unsupported block pattern: ||config.appjolt.com
+Unsupported block pattern: ://o0e.ru^
+Unsupported block pattern: ||31.14.252.148^
+Unsupported block pattern: ||ad*.nexage.com^
+Unsupported block pattern: ||iad-*.appboy.com^
+Unsupported block pattern: ||mediate-ios-*.hyprmx.com^
+Unsupported block pattern: ||production-adserver-*.amazonaws.com^
+Unsupported block pattern: ||rtbimp-loadbalancer-*.amazonaws.com^
+Unsupported block pattern: ||deloton.com$important
+Unsupported block pattern: ||oclasrv.com$important
+Unsupported block pattern: ||dw-informer-*.newsru.com^
+Unsupported block pattern: ||banner*.kinogo.by^
+Unsupported block pattern: ||an.yandex.
+Unsupported block pattern: ||adserver*.euroweeklynews.com^
+Unsupported block pattern: ||184.106.248.76^
+Unsupported block pattern: ||200.72.40.46^
+Unsupported block pattern: ||countly.
+Unsupported block pattern: ||countly-
+Unsupported block pattern: |piwik.
+Unsupported block pattern: ||sw.vidmoly.
+Unsupported block pattern: ||e.missav.
+Unsupported block pattern: ||stats.dulo.
+Unsupported block pattern: ||tag-v*.kuzen.io^
+Unsupported block pattern: ||faro.civitai.
+Unsupported block pattern: ||mtag-*.wedevs.com^
+Unsupported block pattern: ||stats.mapple.*^
+Unsupported block pattern: ||mcs-normal-*.capcutapi.com^
+Unsupported block pattern: ||eflbundles.*.com.tr^
+Unsupported block pattern: ||log.api-maps.yandex.
+Unsupported block pattern: ||ja*.apppure.net^
+Unsupported block pattern: ||ats.gmarket.co.kr
+Unsupported block pattern: -events-collector.spot.im^
+Unsupported block pattern: -upaas.ucweb.com^
+Unsupported block pattern: ||datadog-log.clovergames.io
+Unsupported block pattern: ||log-v*-boot.capcutapi.com^
+Unsupported block pattern: ||logs.collector.*.cloud.solarwinds.com^
+Unsupported block pattern: ||agatha-log-service-*.a.run.app^
+Unsupported block pattern: ||me9ddf.moebelix.
+Unsupported block pattern: ||spa-tracker*.spapi.io^
+Unsupported block pattern: ||htm*.hepsiburada.com^
+Unsupported block pattern: ||touch.yesim.
+Unsupported block pattern: ||data-track*.yingxiong.com^
+Unsupported block pattern: ||mon*.tiktokv.us^
+Unsupported block pattern: ||orderana*.spankbang.com^
+Unsupported block pattern: ||logstash-*.radio-canada.ca^
+Unsupported block pattern: ||analytics.vgtimes.
+Unsupported block pattern: ||beehiiv-adnetwork-production.s*.amazonaws.com^
+Unsupported block pattern: ||telemetry.*.pvp.net^
+Unsupported block pattern: ||analyzer*.fc2.com^
+Unsupported block pattern: ||hba*.hepsiburada.com^
+Unsupported block pattern: prd.api.bleacherreport.com^
+Unsupported block pattern: ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
+Unsupported block pattern: ||customerevents.us-east-*.internal.dradis.netflix.com^
+Unsupported block pattern: ||sgtm.wimdu.
+Unsupported block pattern: ||event.*.shoplive.cloud^
+Unsupported block pattern: ||client.rum.*.amazonaws.com^
+Unsupported block pattern: ||staging-*.ispot.tv^
+Unsupported block pattern: ||stlog*-local.kakao.com^
+Unsupported block pattern: ||mssdk*.capcutapi.com^
+Unsupported block pattern: ||mon-*.lemon8-app.com^
+Unsupported block pattern: ||mon-*.lemon8-app.us^
+Unsupported block pattern: ||mcs-*.lemon8-app.com^
+Unsupported block pattern: ||mcs-*.lemon8-app.us^
+Unsupported block pattern: ||collector-*.px-client.net^
+Unsupported block pattern: ||collector-*.px-cdn.net^
+Unsupported block pattern: ||clickstream-*.homedepot.com^
+Unsupported block pattern: ||acr-*-prd.samsungcloud.tv^
+Unsupported block pattern: .prod.pr.analytics.console.aws.a2z.com
+Unsupported block pattern: ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+Unsupported block pattern: ||cza*.crazygames.com^
+Unsupported block pattern: ||analytics.ahrefs.
+Unsupported block pattern: ||servo-report.keepstreams.*^
+Unsupported block pattern: ||sgtm.fairmont.
+Unsupported block pattern: ||apple-*.le.com^
+Unsupported block pattern: ||tracking-v*.a.run.app^
+Unsupported block pattern: ||backstory.ebay.
+Unsupported block pattern: ||edgetrksvc.ebay.
+Unsupported block pattern: ||ubt.tracking.shopee.
+Unsupported block pattern: ||taplytics-umami.grubhub.com
+Unsupported block pattern: |c.blue.*.com^|
+Unsupported block pattern: ||faro-collector-prod-*.grafana.net^
+Unsupported block pattern: ||*adapt-beacon.awsprodops.movetv.com^
+Unsupported block pattern: ||hn-ping*.hashnode.com^
+Unsupported block pattern: ||analytics-v*.eip.telegraph.co.uk^
+Unsupported block pattern: ||ana*.inews24.com^
+Unsupported block pattern: ||analytics.streamfab.
+Unsupported block pattern: ||mcs-*.tiktok.com^
+Unsupported block pattern: ||adservice.google.
+Unsupported block pattern: ||a*.smlog.co.kr^
+Unsupported block pattern: -tracker.biliapi.net^
+Unsupported block pattern: ||pixel*.production-public.tubi.io^
+Unsupported block pattern: ||ads-dmp-collect.*.karrotmarket.com^
+Unsupported block pattern: ||telemetry*.transcend.io^
+Unsupported block pattern: ||stats.debatdirect.tweedekamer.nl
+Unsupported block pattern: -telemetry.officeapps.live.com^
+Unsupported block pattern: -telemetry.officeapps.live.com.mcas.ms^
+Unsupported block pattern: ||sgtm.fashionunited.
+Unsupported block pattern: ||pixel-*.rubiconproject.com^
+Unsupported block pattern: ||pixel.archive.
+Unsupported block pattern: ||analytics-api.dvdfab.
+Unsupported block pattern: ||servo-report.dvdfab.
+Unsupported block pattern: ||collector.xhamster*.
+Unsupported block pattern: ||sensorsdata*.read.duokan.com^
+Unsupported block pattern: ||analytics.*.sky.com^
+Unsupported block pattern: ||uts.auction.co.kr
+Unsupported block pattern: ||ad*.ettoday.net^
+Unsupported block pattern: ||stw.zone-telechargement.
+Unsupported block pattern: ||stats.zone-telechargement.
+Unsupported block pattern: ||log*.vietnamplus.vn^
+Unsupported block pattern: ://r.i.ua^
+Unsupported block pattern: ||adcounter*.uptolike.ru^
+Unsupported block pattern: ||analytics-rollout-*.amazonaws.com^
+Unsupported block pattern: ||analytics*.carambo.la^
+Unsupported block pattern: ||app-analytics-*.snapchat.com^
+Unsupported block pattern: ||bi-eventtracker-*.amazonaws.com^
+Unsupported block pattern: ||button.blogs.yandex.
+Unsupported block pattern: ||c.bigmir.net
+Unsupported block pattern: ||c*hit.zerkalo.io^
+Unsupported block pattern: ||ce-global-track-*.amazonaws.com^
+Unsupported block pattern: ||clog*.yuanfudao.com^
+Unsupported block pattern: ||cnt.hd21.
+Unsupported block pattern: ||cnt.nuvid.
+Unsupported block pattern: ||cnt.proporn.
+Unsupported block pattern: ||cnt.tubeon.
+Unsupported block pattern: ||cnt.vivatube.
+Unsupported block pattern: ||cnt.winporn.
+Unsupported block pattern: ||cnt.yeptube.
+Unsupported block pattern: ||collect-elb-*.amazonaws.com^
+Unsupported block pattern: ||collector.hamsterix.
+Unsupported block pattern: ||counter*-yadro*-ru.unblocked.lol^
+Unsupported block pattern: ||cs*.mp3bars.com^
+Unsupported block pattern: ||datacollect*.abtasty.com^
+Unsupported block pattern: ||device-metrics-us*.amazon.com^
+Unsupported block pattern: ||eum*.instana.io^
+Unsupported block pattern: ||events-api*.outfit7.com^
+Unsupported block pattern: ||events*.cre.ma^
+Unsupported block pattern: ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+Unsupported block pattern: ||geoloc*.geo20120530.com^
+Unsupported block pattern: ||geoloc*.geostats.ovh^
+Unsupported block pattern: ||geoloc*.geovisite.ovh^
+Unsupported block pattern: ||gscounters.*.gigya.com^
+Unsupported block pattern: ||gtmdev.jabra.
+Unsupported block pattern: ||host*.carl-ras.dk^
+Unsupported block pattern: ||host*.ncoi.nl^
+Unsupported block pattern: ||host*.nti.nl^
+Unsupported block pattern: ||host*.polaroid.com^
+Unsupported block pattern: ||host*.rvshare.com^
+Unsupported block pattern: ||host*.rigbyandpeller.com^
+Unsupported block pattern: ||hstats*.hepsiburada.com^
+Unsupported block pattern: ||img.opentracker.net
+Unsupported block pattern: ||iptracker-lb-*.amazonaws.com^
+Unsupported block pattern: ||lively-collect-elb-*.amazonaws.com^
+Unsupported block pattern: ||log*.aliyuncs.com^
+Unsupported block pattern: ||lt*.tritondigital.com^
+Unsupported block pattern: ||pixel*.adswizz.com
+Unsupported block pattern: ||pxl-*.ozone.ru^
+Unsupported block pattern: ||ssp*.rtb.beeline.ru^
+Unsupported block pattern: ||st-*.dynamicyield.com^
+Unsupported block pattern: ||stat*.1internet.tv^
+Unsupported block pattern: ||t*.zcvh.net^
+Unsupported block pattern: ||track.datescan.info
+Unsupported block pattern: ||trk*.vidible.tv^
+Unsupported block pattern: ||wa.gmx.
+Unsupported block pattern: charlestownwyllie.oaklawnnonantum.com^
+Unsupported block pattern: |a.klaviyo.com^
+Unsupported block pattern: ||api-*.hismarttv.com^
+Unsupported block pattern: ||auth-*.hismarttv.com^
+Unsupported block pattern: ||tracking.*.miui.com^
+Unsupported block pattern: ||datacollector-*.dt.hicloud.com^
+Unsupported block pattern: dynamic-report-api.appsflyersdk.com^
+Unsupported block pattern: -pia.appsflyersdk.com^
+Unsupported block pattern: .skadsdkless.appsflyersdk.com^
+Unsupported block pattern: -skadsdkless.appsflyersdk.com^
+Unsupported block pattern: -adrevenue.appsflyersdk.com^
+Unsupported block pattern: -attr.appsflyersdk.com^
+Unsupported block pattern: gcdsdk.appsflyersdk.com^
+Unsupported block pattern: dlsdk.appsflyersdk.com^
+Unsupported block pattern: ||*cdn-settings.appsflyersdk.com^
+Unsupported block pattern: ||*launches.appsflyersdk.com^
+Unsupported block pattern: ||*conversions.appsflyersdk.com^
+Unsupported block pattern: ||*register.appsflyersdk.com^
+Unsupported block pattern: dlsdk.appsflyer.com^
+Unsupported block pattern: ||log*.boomplaymusic.com^
+Unsupported block pattern: ||log-*.isnssdk.com^
+Unsupported block pattern: ||ping*.bidease.com^
+Unsupported block pattern: -datareceiver.aki-game.net^
+Unsupported block pattern: ||trace-*.free-reels.com^
+Unsupported block pattern: ||clarity.ms^|
+Unsupported block pattern: ||report.*.gbqofs.io^
+Unsupported block pattern: ||gbxreport-*.wf.com^
+Unsupported block pattern: ||logreport-global-dual.cool*cloud.com^
+Unsupported block pattern: ||wslog-global-dual.cool*cloud.com^
+Unsupported block pattern: ||weblogger-wss.cool*cloud.com^
+Unsupported block pattern: ||track-*.hungrypanda.co^
+Unsupported block pattern: ||trace-*.hungrypanda.co^
+Unsupported block pattern: ||collector-*.perimeterx.net^
+Unsupported block pattern: ||kbox-analytics-prod.s*.amazonaws.com^
+Unsupported block pattern: ||stats.*.ronghub.com^
+Unsupported block pattern: ||stats.*.rongnav.com^
+Unsupported block pattern: ||sdk.fra-*.braze.eu^
+Unsupported block pattern: ||mssdk.capcutapi.us
+Unsupported block pattern: ||attr-logs.*.amazonaws.com^
+Unsupported block pattern: ||event.*.karrotmarket.com^
+Unsupported block pattern: ||mon*-misc.fqnovel.com^
+Unsupported block pattern: ||logs-*.rebxgame.com^
+Unsupported block pattern: -client-report.honkaiimpact3.com^
+Unsupported block pattern: ||*-datareceiver.aki-game.net^
+Unsupported block pattern: ||applog*.matrix.easebar.com^
+Unsupported block pattern: ||tnc16-*.hypic.com^
+Unsupported block pattern: ||discovery-ios-*.ertelecom.ru^
+Unsupported block pattern: ||ulog*.gifshow.com^
+Unsupported block pattern: ||logservice.dbankcloud.cn
+Unsupported block pattern: ||use-trk*.bluevoox.com^
+Unsupported block pattern: ||t*.playdigo.live^
+Unsupported block pattern: ||tnc*.tiktokv.us^
+Unsupported block pattern: ||tnc*.tiktokv.com^
+Unsupported block pattern: ||log*-normal-*.tiktokv.com
+Unsupported block pattern: ||ulog*.kwai-pro.com^
+Unsupported block pattern: ||mon-v*-boot.capcutapi.com^
+Unsupported block pattern: ||tnc-va*.capcutapi.com^
+Unsupported block pattern: ||mon-va*.capcutapi.com^
+Unsupported block pattern: ||log-va*.capcutapi.com^
+Unsupported block pattern: -ulogl*.kwai-pro.com^
+Unsupported block pattern: ||ulog*.kwaipros.com^
+Unsupported block pattern: ||snowplow-collector.
+Unsupported block pattern: ||track.*.roku.com^
+Unsupported block pattern: ||analysis.polarisoffice.com
+Unsupported block pattern: ||log*-normal-useast1a.lemon8-app.com^
+Unsupported block pattern: ||hw-sh-pcdn-*.biliapi.net^
+Unsupported block pattern: ||ali-bj-pcdn-*.biliapi.net^
+Unsupported block pattern: -rtb.gravite.net^
+Unsupported block pattern: ||mon*-misc-lf.fqnovel.com^
+Unsupported block pattern: -applog*.fqnovel.com^
+Unsupported block pattern: ||sonar*.xy.fbcdn.net^
+Unsupported block pattern: ||admob-app-id-*.firebaseio.com^
+Unsupported block pattern: ||analytics-*-nfl.yinzcam.com^
+Unsupported block pattern: ||logservice-*.platform.dbankcloud.cn^
+Unsupported block pattern: ||ubacollect-*.cloud.dbankcloud.cn^
+Unsupported block pattern: ||datacollector-*.dt.dbankcloud.cn^
+Unsupported block pattern: -spiky.clevertap-prod.com^
+Unsupported block pattern: ||fp-*it*.fengkongcloud.com^
+Unsupported block pattern: ||maas-*.phunware.com^
+Unsupported block pattern: ||imp-*.jampp.com^
+Unsupported block pattern: ||mapi-log.qoo*.jp^
+Unsupported block pattern: ||f-log-*.grammarly.io^
+Unsupported block pattern: ||log*-misc-lf.amemv.com^
+Unsupported block pattern: ||beacons*.gvt3.com^
+Unsupported block pattern: ||appanalysis*.banggood.com^
+Unsupported block pattern: ||liveme-sensors-collect2-*.amazonaws.com^
+Unsupported block pattern: ||report.*.qq.com^
+Unsupported block pattern: ||tnc16-*.byteoversea.com^
+Unsupported block pattern: ||log*.byteoversea.com^
+Unsupported block pattern: ||log-collector.shopee.
+Unsupported block pattern: ||seller-log-collector.shopee.
+Unsupported block pattern: ||api*.amplitude.com^
+Unsupported block pattern: ||batchlogging*-eu.truecaller.com^
+Unsupported block pattern: ||batchlogging*-noneu.truecaller.com^
+Unsupported block pattern: ||tracking-*.trnox.com^
+Unsupported block pattern: ||report*.appmetrica.webvisor.com^
+Unsupported block pattern: ||api*.moengage.com^
+Unsupported block pattern: ||sdk-*.moengage.com^
+Unsupported block pattern: ||flurry.agentportal-*.yahoodns.net^
+Unsupported block pattern: ||device-metrics-*.amazon.com^
+Unsupported block pattern: ||flurry.agentportal.*.yahoodns.net^
+Unsupported block pattern: /^https:\/\/anon1.gt\d{6}.com/
+Unsupported block modifier: /^anon1.gt\d{6}.com$/
+Unsupported block pattern: -logsdk.kwai-pro.com^
+Unsupported block pattern: -ulog-*.kwai-pro.com^
+Unsupported block pattern: -ulog-*.kwaipros.com^
+Unsupported block pattern: -ulog.*.kwai-pro.com^
+Unsupported block pattern: -ulog.*.kwaipros.com^
+Unsupported block pattern: -ulog.ksapisrv.com^
+Unsupported block pattern: -ulog.kwai-pro.com^
+Unsupported block pattern: -ulog.kwaipros.com^
+Unsupported block pattern: -ulog.region.kwai-pro.com^
+Unsupported block pattern: -ulogl2.kwai-pro.com^
+Unsupported block pattern: -ulogl2.kwaipros.com^
+Unsupported block pattern: ||ulog-*.ksapisrv.com^
+Unsupported block pattern: ||ulog.*.ksapisrv.com^
+Unsupported block pattern: ||ulog.*.kwai-pro.com^
+Unsupported block pattern: ||mcs.*.tiktok.com^
+Unsupported block pattern: ||mcs.*.tiktokv.com^
+Unsupported block pattern: ||log*-normal-*.tiktokv.us^
+Unsupported block pattern: ||mon*-*.tiktokv.com^
+Unsupported block pattern: ||rtlog*.tiktokv.us^
+Unsupported block pattern: ||rtlog*.tiktokv.com^
+Unsupported block pattern: ||mon*-*.tiktokv.us^
+Unsupported block pattern: ||mon-*.tiktokv.com^
+Unsupported block pattern: ||xlog*-*.tiktokv.com^
+Unsupported block pattern: ||mcs-va-*.tiktokv.com^
+Unsupported block pattern: ||logws*.ati-host.net^
+Unsupported block pattern: ||clickhouse-collector.*.prod.plat.agency^
+Unsupported block pattern: ||bapi-*.moengage.com^
+Unsupported block pattern: ||cdn-*.gravityfield.ai^
+Unsupported block pattern: ||powa-ingest-prod-*.video-player.arcpublishing.com^
+Unsupported block pattern: ||collector-*.pxchk.net^
+Unsupported block pattern: ||matomo-demo-*.amazonaws.com^
+Unsupported block pattern: ||*-default-cn.rum.aliyuncs.com^
+Unsupported block pattern: ||*-sdk.rum.aliyuncs.com^
+Unsupported block pattern: ||ecommerce-events*.adscale.com^
+Unsupported block pattern: ||install*.zonastat.com^
+Unsupported block pattern: .tvp.tv^
+Unsupported block pattern: ||log*.zijieapi.com^
+Unsupported block pattern: ||mssdk*.zijieapi.com^
+Unsupported block pattern: ||polaris*-normal-*.zijieapi.com^
+Unsupported block pattern: ||tnc*.zijieapi.com^
+Unsupported block pattern: ||pixel-*.convertagain.net^
+Unsupported block pattern: ||collector*.ex.co^
+Unsupported block pattern: -s2s.sensic.net^
+Unsupported block pattern: ||collect-v*.51.la^
+Unsupported block pattern: ||talpa-analytics.
+Unsupported block pattern: ||px*.mediahills.ru^
+Unsupported block pattern: ||srmdata-*.com^
+Unsupported block pattern: ||analytics*.prezly.com^
+Unsupported block pattern: ||browser-intake-*-datadoghq.com^
+Unsupported block pattern: ||cl*.k5a.io^
+Unsupported block pattern: ||livetracker.*.pangea-cms.com^
+Unsupported block pattern: ||collector-*.tvsquared.com^
+Unsupported block pattern: ||pixelapi-*.cs.mysamba.tv^
+Unsupported block pattern: ||logs*.smithsonian.museum^
+Unsupported block pattern: ||snowplow-collector-*.amazonaws.com^
+Unsupported block pattern: ||v*.sitecounter.site^
+Unsupported block pattern: ||tag-based.s3.*.amazonaws.com^
+Unsupported block pattern: ||suite*.linximpulse.net^
+Unsupported block pattern: ||eclog*-*.cafe24.com^
+Unsupported block pattern: ||rum*.cdnvideo.ru^
+Unsupported block pattern: ||rum*.a.trbcdn.net^
+Unsupported block pattern: ||110.93.143.144^
+Unsupported block pattern: ||stat.tiara.
+Unsupported block pattern: ||track.tiara.
+Unsupported block pattern: ||stats*.videonow.ru^
+Unsupported block pattern: ||logs.juspay.in
+Unsupported block pattern: ||parkdomainreal*.site^
+Unsupported block pattern: ||i-*.ci360.sas.com^
+Unsupported block pattern: ||tms-st.cdn.ngenix.net
+Unsupported block pattern: ||zorosrv.com
+Unsupported block pattern: ||analytics*.clickdimensions.com^
+Unsupported block pattern: ||counter*.freecounter.ovh^
+Unsupported block pattern: ://tru.am^
+Unsupported block pattern: ||180.76.2.18^
+Unsupported block pattern: ||66.228.52.30^
+Unsupported block pattern: ||67.228.151.70^
+Unsupported block pattern: ||74.55.82.102^
+Unsupported block pattern: ||79.125.117.123^
+Unsupported block pattern: ||metrics*.fitanalytics.com^
+Unsupported block pattern: ||hitcounter.ru
+Unsupported block pattern: ||query*.petametrics.com^
+Unsupported block pattern: ||script.opentracker.net
+Unsupported block pattern: .ay.delivery^
+Unsupported block pattern: ||sock*-goguardian.pusher.com^
+Unsupported block pattern: ||tccd.douglas.
+Unsupported block pattern: .stape.net
+Unsupported block pattern: |load.gtm.
+Unsupported block pattern: |load.sgtm.
+Unsupported block pattern: |load.ss.
+Unsupported block pattern: |load.sst.
+Unsupported block pattern: ||thegreatesthits.
+Unsupported block pattern: ://sportframe*.co^
+Unsupported block pattern: ://sportframe*.org^
+Unsupported block pattern: ://r.reklam*.com^
+Unsupported block pattern: ://say.ac^
+Unsupported block pattern: ||ad*.bilgin.pro^
+Unsupported block pattern: ||ad*.tmgrup.com.tr^
+Unsupported block pattern: ||basvformu*.xyz^
+Unsupported block pattern: ||partner.superbahisaffiliates*.com^
+Unsupported block pattern: -ad123-
+Unsupported block pattern: -ads1.
+Unsupported block pattern: -ads2.
+Unsupported block pattern: -banner-ads.
+Unsupported block pattern: -banner728x90.
+Unsupported block pattern: -iklan-gif-
+Unsupported block pattern: -iklan1.
+Unsupported block pattern: -iklan2.
+Unsupported block pattern: -iklan789-
+Unsupported block pattern: -ikln.
+Unsupported block pattern: -1080x140-
+Unsupported block pattern: -1080x140.
+Unsupported block pattern: -1080x180-
+Unsupported block pattern: -1300-x-200-
+Unsupported block pattern: -720x90-
+Unsupported block pattern: -728-x-90-
+Unsupported block pattern: -728-x-90.
+Unsupported block pattern: -728x90a.
+Unsupported block pattern: -970x90-
+Unsupported block pattern: .1080.x.90.
+Unsupported block pattern: -bandarkiu.
+Unsupported block pattern: -cina777.
+Unsupported block pattern: -indo666.
+Unsupported block pattern: -pentaslot.
+Unsupported block pattern: -tototix.gif
+Exception cannot match a DNS hostname: @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
+Unsupported block pattern: ||daleelerah.info
+Unsupported block pattern: ||get-me-wow.
+Unsupported block pattern: /(https?:\/\/)213\.32\.115\..{100,}/
+Unsupported block pattern: /(https?:\/\/)217\.182\.11\..{100,}/
+Unsupported block pattern: /(https?:\/\/)51\.195\.31\..{100,}/
+Unsupported block pattern: ||allsportsflix.
+Unsupported block pattern: ||zhizhizhizhi.oss-*.aliyuncs.com^
+Unsupported block pattern: ||1024wanzhai.
+Unsupported block pattern: ||adi*.cnool.net^
+Unsupported block pattern: ||ax.*.ifeng.com^
+Unsupported block pattern: ||impservice*.yodao.com^
+Unsupported block pattern: ||impservice*.youdao.com^
+Unsupported block pattern: ||itv.hexun.com
+Unsupported block pattern: ||ja*.gamersky.com^
+Unsupported block pattern: ||js*.abolezi.com^
+Unsupported block pattern: ||sam*.baby-kingdom.com^
+Unsupported block pattern: ||same*.stockstar.com^
+Unsupported block pattern: ||sax*.sina.
+Unsupported block pattern: ||ya*.dwstatic.com^
+Unsupported block pattern: ||a*.chajiaotong.com^
+Unsupported block pattern: ||ac*.786ip.com^
+Unsupported block pattern: ||ac*.faxingchina.com^
+Unsupported block pattern: ||at*.doubanio.com^
+Unsupported block pattern: ||bdcpro*.techweb.com.cn^
+Unsupported block pattern: ||bdlm*.hc360.com^
+Unsupported block pattern: ||d*.ruiwen.com^
+Unsupported block pattern: ||d*.xinshipu.com^
+Unsupported block pattern: ||dm*.yxlady.com^
+Unsupported block pattern: ||dn*.ixinwei.com^
+Unsupported block pattern: ||fanpingbi*.gaokao.com^
+Unsupported block pattern: ||fpb*.51edu.com^
+Unsupported block pattern: ||fpb1.chinacar.
+Unsupported block pattern: ||gcw*.2liang.cn^
+Unsupported block pattern: ||qpb*.sohu.com^
+Unsupported block pattern: ||res*.pinpai8.cn^
+Unsupported block pattern: ||static*.365inews.com^
+Unsupported block pattern: ||uc*.atobo.com^
+Unsupported block pattern: ||union*.365inews.com^
+Unsupported block pattern: ||ysdm*.ys137.com.cn^
+Unsupported block pattern: ||util-*.simply-hentai.com^
+Unsupported block pattern: ||tracking*.euroads.fi^
+Unsupported block pattern: ||aff*.kolektiva.net^
+Unsupported block pattern: -logging.nextmedia.com^
+Unsupported block pattern: ||stats2.*.fdnames.com^
+Unsupported block pattern: ||stats-*.p2pnow.ru^
+Unsupported block pattern: ||mtm.qdqmedia.com
+Unsupported block pattern: ||bc.geocities.
+Unsupported block pattern: ||collector-*.luigisbox.com^
+Unsupported block pattern: ||events-proxy.mintlify.com
+Unsupported block pattern: ||log-*.previewnetworks.com^
+Unsupported block pattern: ||mcdp-*.outbrain.com^
+Unsupported block pattern: ||tracker.twenga.
+Unsupported block pattern: ||d241ujsiy3yht0.cloudfront.net
+Unsupported block pattern: ||d2fj3s7h83rb61.cloudfront.net
+Unsupported block pattern: ||get*bannerads-6egeg2u34q-du.a.run.app^
+Unsupported block pattern: ||pangolin*.sgsnssdk.com^
+Unsupported block pattern: ||ad.*.doubleclick.net^
+Unsupported block pattern: ||cdn-adn-*.rayjump.com^
+Unsupported block pattern: ||iad-*.braze.com^
+Unsupported block pattern: ||adimg*.search.naver.net^
+Unsupported block pattern: ||ad*.thisisgame.com^
+Unsupported block pattern: ||ad*.wisenut.co.kr^
+Unsupported block pattern: ||adservice.google.co.*
+Unsupported block pattern: ||ads-*.v.ssp.yahoo.com^
+Unsupported block pattern: ||admicro*.vcmedia.vn^
+Unsupported block pattern: ||log-*.epicdn.me^
+Unsupported block pattern: ||log-*.zadn.vn^
+Unsupported block pattern: ||matomo.*.vn^
+Unsupported block pattern: ||mautic.*.vn^
+Unsupported block pattern: ||piwik.*.vn^
+Unsupported block pattern: ||quangcao-*.epicdn.me^
+Unsupported block pattern: ||ad*.gyaloglo.hu^
+Unsupported block pattern: ||ad*.mellesleg.hu^
+Unsupported block pattern: ||advert*.ultraweb.hu^
+Unsupported block pattern: ||adverticum.*.hu^
+Unsupported block pattern: ||as*.prog.hu^
+Unsupported block pattern: ||etargetnet.*.hu^
+Unsupported block pattern: ||rehs.*.hu^
+Unsupported block pattern: ||sher.*.hu^
+Unsupported block pattern: analytics-*.aasaam.com
+Unsupported block pattern: ||mobileanalytics.*.amazonaws.com^
+Unsupported block pattern: ||logger-*.dailymotion.com^
+Unsupported block pattern: ||metric*.rediff.com^
+Unsupported block pattern: ||t.delfi.
+Unsupported block pattern: ||track.zalando.
+Unsupported block pattern: ||tracking.olx.
+Unsupported block pattern: ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+Unsupported block pattern: ||s*.adduplex.com^

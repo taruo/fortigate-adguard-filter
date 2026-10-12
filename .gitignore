@@ -1,0 +1,6 @@
+converter/bin/
+converter/obj/
+.download/
+source-filter.txt
+*.tmp
+*.log
