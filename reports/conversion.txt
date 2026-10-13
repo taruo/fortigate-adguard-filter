@@ -1,5 +1,5 @@
-Source SHA256: 796ad979020b3f32844081a4ca8bf43ea52160a9eade8fa9017454d4c5d74d45
-Entries: 366268
+Source SHA256: 6c9b8af783c033cae509b3a995a5375539a6fb9327c5cafaa96d46cfabc512a8
+Entries: 366552
 Suppressed blocks overlapping exceptions: 86
 Disabled by badfilter: 1
 Skipped rules: 741
