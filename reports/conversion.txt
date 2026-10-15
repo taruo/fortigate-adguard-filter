@@ -1,8 +1,8 @@
-Source SHA256: 95d0ae721950bddd0686006a58eea4a2ce26942b553de7feb071affd2a0f9dfe
-Entries: 367080
+Source SHA256: c1cea1a18213966f63cab05110e66c0784b99397e1b2e67ae12e45382229d19c
+Entries: 368316
 Suppressed blocks overlapping exceptions: 86
 Disabled by badfilter: 1
-Skipped rules: 741
+Skipped rules: 740
 
 Exception handling (conservative):
 @@||ad.10010.com^ => allow ad.10010.com and subdomains
@@ -900,7 +900,6 @@ Unsupported block pattern: ||d*.xinshipu.com^
 Unsupported block pattern: ||dm*.yxlady.com^
 Unsupported block pattern: ||dn*.ixinwei.com^
 Unsupported block pattern: ||fanpingbi*.gaokao.com^
-Unsupported block pattern: ||fpb*.51edu.com^
 Unsupported block pattern: ||fpb1.chinacar.
 Unsupported block pattern: ||gcw*.2liang.cn^
 Unsupported block pattern: ||qpb*.sohu.com^
