@@ -1,5 +1,5 @@
-Source SHA256: 5fbb2628275dae17e24202fac50b4b5d414bfab18cd4f7ea0a5d202d2d5a9c26
-Entries: 374924
+Source SHA256: d7405e0ac30b47cdc26b2c10d2d86a9134c02e830aed611ca4692b99c938fc8e
+Entries: 378228
 Suppressed blocks overlapping exceptions: 86
 Disabled by badfilter: 1
 Skipped rules: 739
@@ -97,6 +97,7 @@ Exception handling (conservative):
 @@||clickattr.wayup.com^| => allow clickattr.wayup.com and subdomains
 @@||used.ca^| => allow used.ca and subdomains
 @@||remembering.ca^| => allow remembering.ca and subdomains
+@@||obituaries.startribune.com^| => allow obituaries.startribune.com and subdomains
 @@||obituaries.toacorn.com^| => allow obituaries.toacorn.com and subdomains
 @@||obituaries.thestar.com^| => allow obituaries.thestar.com and subdomains
 @@||obituaries.therecord.com^| => allow obituaries.therecord.com and subdomains
