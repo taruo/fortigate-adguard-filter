@@ -1,5 +1,5 @@
-Source SHA256: 7348f20c4e470abf9b12d760f898dbf9ac3f76034283e19522811f066797615d
-Entries: 378954
+Source SHA256: 0b4d0150332c17a76602cd667a48b029ea829027865b8e2a0bb8a1e63ab2c6cf
+Entries: 379686
 Suppressed blocks overlapping exceptions: 86
 Disabled by badfilter: 1
 Skipped rules: 739
@@ -437,7 +437,7 @@ Unsupported block pattern: ||adv0*.msa.cdn.mediaset.net^
 Unsupported block modifier: /^https:\/\/(a|c)\.[0-9a-f]{56}\.com$/
 Unsupported block modifier: /^(a|c)\.[0-9a-f]{56}\.com$/
 Unsupported block pattern: ||54.222.186.106^
-Unsupported block pattern: ||*.libaishuo.com^
+Unsupported block pattern: .libaishuo.com^
 Unsupported block pattern: ||adapi*.boomplaymusic.com^
 Unsupported block pattern: ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 Unsupported block pattern: ||23.224.199.96^
