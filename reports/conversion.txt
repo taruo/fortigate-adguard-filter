@@ -1,8 +1,8 @@
-Source SHA256: 82afc216c33cebb1927307c5fa6eb145e7fdf0fae78e0959d8ca826786a066c4
-Entries: 366482
+Source SHA256: 402089fd823c7761b4a9732020c46c30b6607fc24fc3a61b7efbda35407eb966
+Entries: 367264
 Suppressed blocks overlapping exceptions: 86
 Disabled by badfilter: 1
-Skipped rules: 739
+Skipped rules: 740
 
 Exception handling (conservative):
 @@||ad.10010.com^ => allow ad.10010.com and subdomains
@@ -498,9 +498,10 @@ Unsupported block pattern: ||200.72.40.46^
 Unsupported block pattern: ||countly.
 Unsupported block pattern: ||countly-
 Unsupported block pattern: |piwik.
+Unsupported block pattern: ||analytics.dulo.
+Unsupported block pattern: ||cnt.iceporn.
 Unsupported block pattern: ||sw.vidmoly.
 Unsupported block pattern: ||e.missav.
-Unsupported block pattern: ||stats.dulo.
 Unsupported block pattern: ||tag-v*.kuzen.io^
 Unsupported block pattern: ||faro.civitai.
 Unsupported block pattern: ||mtag-*.wedevs.com^
