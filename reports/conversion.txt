@@ -1,8 +1,8 @@
-Source SHA256: c37e9a7487d9147ffb943f13bed8b662c90e7259acaf75a3d334bf5f90bac40b
-Entries: 377764
+Source SHA256: 174360906ad056023426c506244d68bf84175d5bd7c6bd8b1ad797b13e1bdba4
+Entries: 378398
 Suppressed blocks overlapping exceptions: 87
 Disabled by badfilter: 1
-Skipped rules: 742
+Skipped rules: 741
 
 Exception handling (conservative):
 @@||ad.10010.com^ => allow ad.10010.com and subdomains
@@ -888,7 +888,6 @@ Unsupported block pattern: ||impservice*.yodao.com^
 Unsupported block pattern: ||impservice*.youdao.com^
 Unsupported block pattern: ||itv.hexun.com
 Unsupported block pattern: ||ja*.gamersky.com^
-Unsupported block pattern: ||js*.abolezi.com^
 Unsupported block pattern: ||sam*.baby-kingdom.com^
 Unsupported block pattern: ||same*.stockstar.com^
 Unsupported block pattern: ||sax*.sina.
