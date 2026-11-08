@@ -1,6 +1,6 @@
-Source SHA256: 174360906ad056023426c506244d68bf84175d5bd7c6bd8b1ad797b13e1bdba4
-Entries: 378398
-Suppressed blocks overlapping exceptions: 87
+Source SHA256: bd07b76a40a4a1e89693bceee739d86207286c167ecb61906a9de0339b061b90
+Entries: 379054
+Suppressed blocks overlapping exceptions: 88
 Disabled by badfilter: 1
 Skipped rules: 741
 
@@ -16,6 +16,7 @@ Exception handling (conservative):
 @@||buyad.bi-xenon.cn^ => allow buyad.bi-xenon.cn and subdomains
 @@||captcha.su.baidu.com^ => allow captcha.su.baidu.com and subdomains
 @@||img.ads.tvb.com^ => allow img.ads.tvb.com and subdomains
+@@||unsubscribe.email.premierleague.com^| => allow unsubscribe.email.premierleague.com and subdomains
 @@||data.email.premierleague.com^| => allow data.email.premierleague.com and subdomains
 @@||spartaindependent.com^| => allow spartaindependent.com and subdomains
 @@||emails.educause.edu^| => allow emails.educause.edu and subdomains
