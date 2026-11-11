@@ -1,5 +1,5 @@
-Source SHA256: 7ad1a6680936b96a3b392ceade377f9de0c552d948d72328677ef9c58ec4da10
-Entries: 374504
+Source SHA256: 35fed328a38b891eef8d05c4d4eeadda4045a7f76d4ed08531530d80e2bd6bdf
+Entries: 375364
 Suppressed blocks overlapping exceptions: 88
 Disabled by badfilter: 1
 Skipped rules: 741
@@ -27,6 +27,7 @@ Exception handling (conservative):
 @@||partner.o2online.de^| => allow partner.o2online.de and subdomains
 @@||data.notify.macys.com^| => allow data.notify.macys.com and subdomains
 @@||om-ssl.consorsbank.de^| => allow om-ssl.consorsbank.de and subdomains
+@@|api.taboola.com^| => allow api.taboola.com and subdomains
 @@|cdn.taboola.com^| => allow cdn.taboola.com and subdomains
 @@||unsubscribe.lhinsights.com^| => allow unsubscribe.lhinsights.com and subdomains
 @@||belgium.wolterskluwer.com^| => allow belgium.wolterskluwer.com and subdomains
