@@ -1,8 +1,8 @@
-Source SHA256: 19c0442162a9db83ad2118e19614efaa7bbfac18248ff221f0380e8def952b0a
-Entries: 386476
+Source SHA256: 9b25cdd710b52c0829dc915c32e6e74df7e92be5e209e69f19bc847170c6342c
+Entries: 387196
 Suppressed blocks overlapping exceptions: 89
 Disabled by badfilter: 1
-Skipped rules: 741
+Skipped rules: 740
 
 Exception handling (conservative):
 @@||ad.10010.com^ => allow ad.10010.com and subdomains
@@ -37,7 +37,6 @@ Exception handling (conservative):
 @@||data.orders.costco.ca^| => allow data.orders.costco.ca and subdomains
 @@||data.orders.costco.com^| => allow data.orders.costco.com and subdomains
 @@||link.meet5.net^| => allow link.meet5.net and subdomains
-@@||link.nzz.ch^| => allow link.nzz.ch and subdomains
 @@||content.viralize.tv^| => allow content.viralize.tv and subdomains
 @@||www.datadoghq-browser-agent.com^| => allow www.datadoghq-browser-agent.com and subdomains
 @@||itoya.ec-optimizer.com^| => allow itoya.ec-optimizer.com and subdomains
@@ -778,7 +777,6 @@ Unsupported block pattern: ||xlog*-*.tiktokv.com^
 Unsupported block pattern: ||mcs-va-*.tiktokv.com^
 Unsupported block pattern: ||logws*.ati-host.net^
 Unsupported block pattern: ||clickhouse-collector.*.prod.plat.agency^
-Unsupported block pattern: ||bapi-*.moengage.com^
 Unsupported block pattern: ||cdn-*.gravityfield.ai^
 Unsupported block pattern: ||powa-ingest-prod-*.video-player.arcpublishing.com^
 Unsupported block pattern: ||collector-*.pxchk.net^
