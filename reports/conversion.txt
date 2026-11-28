@@ -1,8 +1,8 @@
-Source SHA256: 507ba0b1b235adfbf397904606aae727e11446a23ef19d3306e5f97f3aa6d9a1
-Entries: 388714
+Source SHA256: 66d9c8a89627f580aabe3826c981a3cec90ffb0ecc6106b2ba6bc1e3b6a135c3
+Entries: 389520
 Suppressed blocks overlapping exceptions: 89
 Disabled by badfilter: 1
-Skipped rules: 741
+Skipped rules: 744
 
 Exception handling (conservative):
 @@||ad.10010.com^ => allow ad.10010.com and subdomains
@@ -503,6 +503,9 @@ Unsupported block pattern: ||200.72.40.46^
 Unsupported block pattern: ||countly.
 Unsupported block pattern: ||countly-
 Unsupported block pattern: |piwik.
+Unsupported block pattern: ||telemetry.*.oraclecloud.com^
+Unsupported block pattern: ||events.*.oci.oraclecloud.com^
+Unsupported block pattern: ||logging.*.oci.oraclecloud.com^
 Unsupported block pattern: ||telemetry.*.oci.oraclecloud.com^
 Unsupported block pattern: ||analytics.dulo.
 Unsupported block pattern: ||cnt.iceporn.
